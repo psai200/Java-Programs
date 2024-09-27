@@ -4,7 +4,22 @@ public class Swap {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("traind by priya");
+		 
+
+		 float first = 12.0f, second = 30.5f, third;
+
+	        
+
+	       third=first;
+	       first=second;
+	       second=third;
+
+	        
+	        System.out.println( first);
+	        System.out.println( second);
+
+	}
+		
 	}
 
-}
+
