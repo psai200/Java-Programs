@@ -16,7 +16,7 @@ public class Demo11 {
 //		System.out.println(Integer.MAX_VALUE+""+Integer.MIN_VALUE);
 		
 //		
-	//	int a=100,b=50,c=500;
+	//	int a=100,b=50,c=500; 
 //		if(a>b) {
 //			 if(a>c) {
 //				System.out.println("a is big");
@@ -26,7 +26,7 @@ public class Demo11 {
 //			 }
 //		}
 //		 else if(b>c) {
-//			System.out.println("b is big");
+//			System.out.println("b is big");// yy velli poothava antiii  sodi ga
 //		}
 //		 else {
 //			 System.out.println("c is big");
