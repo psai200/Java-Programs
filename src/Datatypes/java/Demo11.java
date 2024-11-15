@@ -26,7 +26,7 @@ public class Demo11 {
 //			 }
 //		}
 //		 else if(b>c) {
-//			System.out.println("b is big");// yy velli poothava antiii  sodi ga
+//			System.out.println("b is big");
 //		}
 //		 else {
 //			 System.out.println("c is big");
