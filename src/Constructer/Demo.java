@@ -3,9 +3,9 @@ package Constructer;
 import java.util.Scanner;
 
 public class Demo {
-	String name;
+	String name;//variable declaration
 	int b;
-	Demo(String a,int c){
+	Demo(String a,int c){// crate  method
 		name = a;
 		b=c;
 		
@@ -19,7 +19,7 @@ public class Demo {
 			String name = obj.next();
 			System.out.println("enter b:");
 			int  b = obj .nextInt();
-			Demo s = new Demo(name,b);
+			Demo s = new Demo(name,b);// object creation
 			System.out.println (s.name);
 			System.out.println(s.b);
 			

@@ -15,15 +15,18 @@ public class Static2 {
 	}
 	 
 	static void display(String hara) {
-		System.out.println("name "+  hara);
-		}
+	System.out.println("name "+  hara);
+	
+		
+	}
 		
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			Static2.display();
+			//Static2.display();
 			Scanner h = new Scanner(System.in);
 			System.out.println("enter name:");
 			String g =h. next();
+			Static2.display();
 			Static2.display(g);
 			
 			

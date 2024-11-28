@@ -8,12 +8,12 @@ public class Ternaryoperator {
 		int i= 10;
 		int  j= 5;
 		int  d= i>j? i:j;
-		System.out.println(d);// 10
+		System.out.println(d);
 		 //
-		int a = 50, b = 10, c = 15;
+		int a = 5, b = 10, c = 15;
 		int max = (a > b) ? (a > c ? a : c) : (b > c ? b : c);
 
-		System.out.println(" value : " + max); // 50
+		System.out.println(" value : " + max); 
 
 	}
 

@@ -13,8 +13,8 @@ public class Demovariables {
 		System.out.println(d);
 		Demovariables obj =new Demovariables();// object creation 
 		System.out.println(obj.a);
-		Demovariables o =new Demovariables();
-		System.out.println(o.b);
+		
+		System.out.println(obj.b);
 		System.out.println(c);
 		System.out.println(e);
 		
