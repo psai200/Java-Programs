@@ -14,6 +14,7 @@ public class Switchif {
 		case 1:;
 		case 2:;
 		case 3:;
+		case 4:;
 		default:;
 		if(day==1) 
 			System.out.println("monday");
@@ -23,6 +24,8 @@ public class Switchif {
 		
 		else if(day==3) 
 			System.out.println("wednesday");
+		else if(day==4) 
+			System.out.println("thursday");
 		
 		else {
 			System.out.println("invalid day");
