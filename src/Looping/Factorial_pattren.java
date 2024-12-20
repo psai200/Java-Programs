@@ -13,7 +13,7 @@ public class Factorial_pattren {
 			if(a%3==0);
 			System.out.print("lal");
 		}
-		else /b y {
+		else {
 			System.out.print(i+"");
 		}
 		

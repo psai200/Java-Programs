@@ -11,7 +11,7 @@ public class Odd_Even {
 		int a= d.nextInt();
 		if(a%2==1) {
 			System.out.println("odd number");
-			
+		
 			Scanner obj=new Scanner(System.in);
 			System.out.println("enter  number b:");
 			int b=obj.nextInt();
@@ -23,12 +23,13 @@ public class Odd_Even {
 				System.out.println("even number");
 			}
 			
-		}
+	}
 		else {
 			System.out.println("even number");
 			
 		}
+			}
+		}
+	
 
-	}
 
-}
